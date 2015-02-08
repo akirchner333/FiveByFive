@@ -1,0 +1,5 @@
+source "http://rubygems.org"
+
+gem "twitter", "~> 5.13.0"
+gem "rmagick", "~> 2.13.4"
+gem "tumblr_client", "~> 0.8.5"
